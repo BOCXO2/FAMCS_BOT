@@ -1,2 +1,2 @@
 # FAMCS_BOT
-Бот, который выводит ссылки на соцсети ФПМИ
+A bot that displays links to the social networks of the FAMCS
